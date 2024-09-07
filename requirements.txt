@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-google-genai
+huggingface_hub
+google-generativeai
+langchain-huggingface
